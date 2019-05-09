@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css?family=Nanum+Myeongjo:700');
+body{
+    background-image:url("https://cdn.wallpapersafari.com/21/25/w6SZVs.gif");
+    background-size:100%;
+    font-family: 'Nanum Myeongjo', serif;
+    color:white;
+    text-align:center;
+    margin:90px;
+}
+img{
+   border-radius:10px;
+   width:190px;
+   height:230px;
+}
+.wrapper{
+    background-color:rgba(161, 201, 226, 0.1);
+    display:flex;
+    flex-direction:column;
+    margin:auto;
+    width:68%;
+}
+.header{
+    background-image:url("https://media.giphy.com/media/AjGKGiGM1Lxe0/giphy.gif");
+    background-color:#cc8ca9;
+    margin:auto;
+    width:550px;
+    height:170px;
+    font-size:30px;
+    border-radius:10px;
+}
+.inputs{
+    background-image:url("https://i.gifer.com/origin/b1/b195bd28939ffec5324c85eacd9e5196_w200.gif");
+    background-color:#dd9999;
+    display:flex;
+    justify-content:center;
+    margin:40px;
+     border-radius:10px;
+     font-size:20px;
+}
+h3{
+    padding:40px;
+}
+.main{
+    display:flex;
+    justify-content:space-around;
+    flex-direction:row;
+    background-color:white;
+    font-size:18px;
+}
+.imgz{
+    width:260px;
+    background-color:#ede3c7;
+}
+#shown{
+    padding:10px 10px 10px 5px;
+    display:block;
+}
+.namez{
+    width:260px;
+    background-color:#edc8c7;
+}
+#ame{
+    padding:100px 0px 100px 0px;
+}
+.pricez{
+    width:260px;
+    background-color:#edc7d3;
+}
+#moniy{
+    padding:100px 0px 100px 0px;
+}
+.order{
+    background-image:url("https://i.gifer.com/origin/b1/b195bd28939ffec5324c85eacd9e5196_w200.gif");
+    background-color:#dd9999;
+    border-radius:10px;
+    font-size:20px;
+}
+.store{
+    display:flex;
+    justify-content:center;
+    flex-direction:column;
+    justify-content:space-around;
+    
+}
+.total{
+    display:flex;
+    justify-content:center;
+}
+.cost{
+    margin-left:100px;
+}
+.btns{
+    background-image:url("https://i.gifer.com/origin/b1/b195bd28939ffec5324c85eacd9e5196_w200.gif");
+    background-color:#dd9999;
+    margin:20px;
+    padding:10px 10px 20px 10px;
+    border-radius:10px;
+}
+button{
+    background-color:#dbafdd;
+    border-radius:10px;
+    width:100px;
+    height:50px;
+    font-size:20px;
+}
+.moment{
+    background-color:#d2dff7;
+    color:navy;
+    display:none;
+}
+.gif{
+    width:300px;
+    height:200px;
+}
+.discountcode{
+    color:green;
+}
